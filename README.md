@@ -1,6 +1,6 @@
 # Exercise - Writing Functions & Tests
 
-### For this exercise I wrote the bare-bones functionality for a calculator along with some tests to verify that things are behaving the way they should.
+**For this exercise I wrote the bare-bones functionality for a calculator along with some tests to verify that things are behaving the way they should.**
 
 ## Before I Started...
 
